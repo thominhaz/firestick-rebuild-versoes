@@ -1,0 +1,65 @@
+{
+  "formato": 1,
+  "publicado": "2026-11-03T16:46:57Z",
+  "apps": [
+    {
+      "pacote": "app.telainicial",
+      "versionCode": 108,
+      "versionName": "1.1.108",
+      "arquivo": "tela-inicial-108.apk",
+      "sha256": "ee55e3d6200344994ca9440efdca2a16617a9f53f67dc0b259f4cc85ddc2e851",
+      "tamanho": 3750501,
+      "tree": "8613b1381dfe305cc1caeab04404981d52503f61"
+    },
+    {
+      "pacote": "app.telainicial.atualizador",
+      "versionCode": 107,
+      "versionName": "1.0.107",
+      "arquivo": "atualizador-107.apk",
+      "sha256": "d15d791af7765ad51f250fa9ab9d0848b00a3a48abac29d6714f9696f7c0e950",
+      "tamanho": 79289,
+      "tree": "9cddccdc1edb27069cafa1591241b329579dfaec",
+      "notas": [
+        "Relatos de problema com conexão segura mais garantida"
+      ]
+    }
+  ],
+  "historico": [
+    {
+      "versionCode": 108,
+      "versionName": "1.1.108",
+      "data": "2026-11-03",
+      "notas": [
+        "Wi-Fi: quando a senha não funciona, a janela volta com o que foi digitado, para corrigir",
+        "Wi-Fi: OK na rede conectada abre as opções, com Esquecer esta rede",
+        "Wi-Fi: avisos mais claros quando o sinal cai no meio da conexão"
+      ]
+    },
+    {
+      "versionCode": 106,
+      "versionName": "1.1.106",
+      "data": "2026-11-03",
+      "notas": [
+        "Aviso mais claro quando a atualização é só do Atualizador"
+      ]
+    },
+    {
+      "versionCode": 104,
+      "versionName": "1.1.104",
+      "data": "2026-11-03",
+      "notas": [
+        "O botão Procurar atualização agora passa a procurar na hora, mesmo logo depois de uma verificação"
+      ]
+    },
+    {
+      "versionCode": 103,
+      "versionName": "1.1.103",
+      "data": "2026-11-03",
+      "notas": [
+        "Nova aba Ajuda na Central de controle: procurar atualização e relatar um problema",
+        "Tela de novidades bonita a cada atualização",
+        "A TV agora se atualiza pela internet, com um clique"
+      ]
+    }
+  ]
+}
